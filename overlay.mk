@@ -193,6 +193,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oppo-renopro2019-systemui \
 	treble-overlay-oukitel-c18pro \
 	treble-overlay-oukitel-wp8pro \
+	treble-overlay-Qin-k61v1_64_bsp \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-10pro \
 	treble-overlay-realme-10pro-systemui \
